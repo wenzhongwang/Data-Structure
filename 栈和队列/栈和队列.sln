@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈和队列", "栈和队列\栈和队列.vcxproj", "{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Debug|x64.ActiveCfg = Debug|x64
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Debug|x64.Build.0 = Debug|x64
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Debug|x86.Build.0 = Debug|Win32
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Release|x64.ActiveCfg = Release|x64
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Release|x64.Build.0 = Release|x64
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Release|x86.ActiveCfg = Release|Win32
+		{7BE03E65-A27C-4FFD-A1F7-F00D5A74B5C2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF9C660-8895-41B3-BD53-41B3FEC021F2}
+	EndGlobalSection
+EndGlobal
