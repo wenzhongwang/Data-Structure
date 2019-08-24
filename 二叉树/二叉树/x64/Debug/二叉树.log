@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\王文重\source\repos\二叉树\二叉树\createtree.h(114): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\王文重\source\repos\二叉树\二叉树\createtree.h(149): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  二叉树.vcxproj -> C:\Users\王文重\Source\Repos\二叉树\x64\Debug\二叉树.exe
